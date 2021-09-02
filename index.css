@@ -1,0 +1,42 @@
+body{
+    background-image: url("birthdayPalindrom.png");
+    background-size:100% 100%;
+    -o-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%; 
+    background-size:cover;
+    
+    
+}
+.container{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 1rem;
+    border:solid black;
+    border-radius: 0.5rem;
+    margin-top: 10%;
+    background-color:  rgba(182, 178, 178, 0.904)
+    
+}
+label{
+    display: block;
+    margin:1rem;
+    font-size: larger;
+}
+#button{
+    display: block;
+    width: auto;
+    margin: auto;
+    margin-top: 1rem;
+    border: solid black;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+#userinput{
+    padding: 0.5%;
+}
+#output{
+    margin:auto;
+    margin-top: 1rem;
+    font-size: x-large;
+}
